@@ -12,7 +12,7 @@ function ShowLog(){
 }
 
 console.log("Hello World!!!")
-console.log("Phong Bu Lon")
+
 
 // Thuc thi bien
 // alert(fullName);
