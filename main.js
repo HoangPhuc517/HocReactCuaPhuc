@@ -11,7 +11,7 @@ function ShowLog(){
     else return false;
 }
 
-
+console.log("Hello World!!!")
 
 // Thuc thi bien
 // alert(fullName);
